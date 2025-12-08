@@ -1,0 +1,5 @@
+{
+  "name": "Cosmic Explorer",
+  "description": "Interactive solar system explorer where each planet features a unique mini-game based on its scientific characteristics. Powered by Gemini for dynamic mission briefings and educational facts.",
+  "requestFramePermissions": []
+}
