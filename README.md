@@ -1,20 +1,5 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Omar-Tawfik (archived)
 
-# Run and deploy your AI Studio app
+> **This was an early version. The maintained project is [CosmicGame](https://github.com/otawfik/CosmicGame).**
 
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/drive/1S76FpD82iiTgYsWVFX9io0ekaAW8Nfw9
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+The first, AI Studio version of Cosmic Explorer ("Cosmic Visions"). The finished game is CosmicGame — [play it here](https://otawfik.github.io/CosmicGame/).
